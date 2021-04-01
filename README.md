@@ -12,7 +12,6 @@ The purpose was to aid in the identification of Bacterial species that have the 
 - Python
 - JavaScript
 - HTML, CSS
-- Heroku
 - Flask, SQLAlchemy
 - Plotly.js
 - D3
