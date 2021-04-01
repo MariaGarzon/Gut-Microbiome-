@@ -1,6 +1,6 @@
 # Tiny Organisms in the gut, Huge Potential!
 
-![bell-button-dashboard] 
+![bell-button-dashboard](https://github.com/MariaGarzon/Gut-Microbiome-/blob/bf755ca0d10a42d993f2daf68c07cebca1d6eed0/Images/bell-button-dashboard.png)
 
 ## Overview
 
