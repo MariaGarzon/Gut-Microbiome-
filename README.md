@@ -1,5 +1,7 @@
 # Tiny Organisms in the gut, Huge Potential!
 
+![bell-button-dashboard] 
+
 ## Overview
 
 An interarctive dashboard was developed to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which identifies microbes that colonize human navels.
